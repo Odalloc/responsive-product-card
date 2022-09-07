@@ -29,7 +29,7 @@ body {
 }
 
 .product-img {
-  width: 50%;
+  width: 100%;
   flex: 1;
 }
 
