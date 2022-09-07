@@ -30,10 +30,12 @@ body {
 
 .product-img {
   width: 50%;
+  flex: 1;
 }
 
 .product-info {
   padding: 30px;
+  flex: 1;
 }
 
 .product-info h1 {
